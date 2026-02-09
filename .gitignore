@@ -1,0 +1,19 @@
+# Models
+*.pt
+
+# Videos
+*.mp4
+*.avi
+*.mov
+
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.env
+venv/
+
+# Output Data
+detections.json
+analysis.txt

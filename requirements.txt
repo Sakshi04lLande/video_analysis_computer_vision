@@ -1,0 +1,9 @@
+ultralytics==8.3.12
+opencv-python
+filterpy
+lapx
+scikit-learn
+numpy
+torch
+torchvision
+pandas

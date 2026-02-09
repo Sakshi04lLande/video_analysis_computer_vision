@@ -1,0 +1,9641 @@
+***************************************************************
+*                                                             *
+* Copyright Hikvision Digital Technology Co., Ltd.            *
+*                                                             *
+***************************************************************
+
+698 logs output
+
+
+User: admin Date:24/11/2025 Time: 16:25:33 made video export from device 0820230816CCWRAF0947423WCVU
+
+
+----------------------------
+1     2025-11-21 09:00:00
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+2     2025-11-21 09:00:03
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+3     2025-11-21 09:00:03
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+4     2025-11-21 09:00:08
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Vehicle
+
+
+----------------------------
+5     2025-11-21 09:00:09
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+6     2025-11-21 09:00:10
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+7     2025-11-21 09:00:11
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+8     2025-11-21 09:00:18
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Vehicle
+
+
+----------------------------
+9     2025-11-21 09:00:32
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+10    2025-11-21 09:00:39
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+11    2025-11-21 09:00:45
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+12    2025-11-21 09:00:52
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+13    2025-11-21 09:00:52
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+14    2025-11-21 09:01:06
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+15    2025-11-21 09:01:07
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+16    2025-11-21 09:01:15
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+17    2025-11-21 09:01:36
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+18    2025-11-21 09:01:55
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+19    2025-11-21 09:01:56
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+20    2025-11-21 09:02:05
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+21    2025-11-21 09:02:07
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+22    2025-11-21 09:02:13
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+23    2025-11-21 09:02:24
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+24    2025-11-21 09:02:30
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+25    2025-11-21 09:02:36
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+26    2025-11-21 09:02:38
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+27    2025-11-21 09:02:46
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+28    2025-11-21 09:02:47
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+29    2025-11-21 09:02:47
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+30    2025-11-21 09:02:57
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+31    2025-11-21 09:03:08
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+32    2025-11-21 09:03:23
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+33    2025-11-21 09:03:28
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+34    2025-11-21 09:03:40
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+35    2025-11-21 09:03:51
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+36    2025-11-21 09:03:54
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+37    2025-11-21 09:03:57
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+38    2025-11-21 09:04:03
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+39    2025-11-21 09:04:05
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+40    2025-11-21 09:04:09
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+41    2025-11-21 09:04:12
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+42    2025-11-21 09:04:15
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+43    2025-11-21 09:04:24
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+44    2025-11-21 09:04:30
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+45    2025-11-21 09:04:32
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+46    2025-11-21 09:04:37
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+47    2025-11-21 09:04:38
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+48    2025-11-21 09:04:40
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+49    2025-11-21 09:04:43
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+50    2025-11-21 09:04:46
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+51    2025-11-21 09:04:54
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+52    2025-11-21 09:05:00
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+53    2025-11-21 09:05:03
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+54    2025-11-21 09:05:06
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+55    2025-11-21 09:05:09
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+56    2025-11-21 09:05:21
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+57    2025-11-21 09:05:25
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+58    2025-11-21 09:05:29
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+59    2025-11-21 09:05:53
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+60    2025-11-21 09:05:59
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+61    2025-11-21 09:06:07
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A3
+
+Vehicle
+
+
+----------------------------
+62    2025-11-21 09:06:07
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+63    2025-11-21 09:06:07
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+A1 Len: 20882168 R: 1038676 W: 20544 Time: 21-11-2025 09:06:07
+A2 Len: 51070244 R: 450348 W: 766408 Time: 21-11-2025 09:06:07
+A3 Len: 28156288 R: 924232 W: 1200128 Time: 21-11-2025 09:06:07
+A4 Len: 40798124 R: 730496 W: 1010368 Time: 21-11-2025 09:06:07
+A5 Len: 15849824 R: 171776 W: 320628 Time: 21-11-2025 09:06:07
+A6 Len: 7772116 R: 843092 W: 9636 Time: 21-11-2025 09:06:07
+A7 Len: 7770900 R: 697612 W: 1084948 Time: 21-11-2025 09:06:07
+A8 Len: 7774560 R: 439100 W: 784652 Time: 21-11-2025 09:06:07
+D1 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D2 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D3 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D4 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D5 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D6 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D7 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D8 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D9 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D10 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+
+
+
+----------------------------
+64    2025-11-21 09:06:08
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+System status: 2
+User: 0%
+Sys: 0%
+Iowait: 0%
+Soft: 9%
+Idle: 90%
+Total memory: 158.11MB
+Free memory: 55.64MB
+Buffer: 8KB
+Cached: 0KB
+Main output: None(0)
+Main output status: 0
+Main output screen-division: 0
+Enable main output screensaver: 0
+Aux output: None(0)
+Aux output status: 0
+Aux output screen-division: 0
+Enable Aux output  screensaver: 0
+Current output: 0
+Motherboard temperature: 127
+DSP status: 
+CPU Temperature: 0
+Flash write frequency: 4
+
+
+
+----------------------------
+65    2025-11-21 09:06:08
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Vehicle
+
+
+----------------------------
+66    2025-11-21 09:06:15
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+67    2025-11-21 09:06:17
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A3
+
+Vehicle
+
+
+----------------------------
+68    2025-11-21 09:06:17
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Vehicle
+
+
+----------------------------
+69    2025-11-21 09:06:22
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+70    2025-11-21 09:06:23
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Vehicle
+
+
+----------------------------
+71    2025-11-21 09:06:24
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+72    2025-11-21 09:06:25
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+73    2025-11-21 09:06:27
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+74    2025-11-21 09:06:29
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+75    2025-11-21 09:06:31
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+76    2025-11-21 09:06:32
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Vehicle
+
+
+----------------------------
+77    2025-11-21 09:06:35
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+78    2025-11-21 09:06:35
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+79    2025-11-21 09:06:37
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+80    2025-11-21 09:06:43
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+81    2025-11-21 09:06:52
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+82    2025-11-21 09:07:03
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+83    2025-11-21 09:07:04
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+84    2025-11-21 09:07:18
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+85    2025-11-21 09:07:28
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+86    2025-11-21 09:07:34
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+87    2025-11-21 09:07:39
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+88    2025-11-21 09:07:40
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+89    2025-11-21 09:07:46
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+90    2025-11-21 09:07:47
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+91    2025-11-21 09:08:16
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+chan,chanType,recType,Stat,overflow,recordCommand,bPause,bSwitch,Online,Disk
+1,1,0,1,0,0,0,0,OFF,/dev/h_sda
+2,1,0,1,0,0,0,0,OFF,/dev/h_sda
+3,1,0,1,0,0,0,0,OFF,/dev/h_sda
+4,1,0,1,0,0,0,0,OFF,/dev/h_sda
+5,1,0,1,0,0,0,0,OFF,/dev/h_sda
+6,1,0,1,0,0,0,0,OFF,/dev/h_sda
+7,1,0,1,0,0,0,0,OFF,/dev/h_sda
+8,1,0,1,0,0,0,0,OFF,/dev/h_sda
+
+
+
+----------------------------
+92    2025-11-21 09:08:20
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+93    2025-11-21 09:08:26
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+94    2025-11-21 09:08:26
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+95    2025-11-21 09:08:40
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+96    2025-11-21 09:08:40
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+97    2025-11-21 09:08:49
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+98    2025-11-21 09:08:58
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+99    2025-11-21 09:09:04
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+100   2025-11-21 09:09:44
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+101   2025-11-21 09:09:53
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+102   2025-11-21 09:10:34
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+103   2025-11-21 09:10:43
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+104   2025-11-21 09:10:46
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+105   2025-11-21 09:10:50
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+106   2025-11-21 09:10:52
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+107   2025-11-21 09:10:55
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+108   2025-11-21 09:11:09
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+109   2025-11-21 09:11:11
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+110   2025-11-21 09:11:18
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+111   2025-11-21 09:11:20
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+112   2025-11-21 09:11:25
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+113   2025-11-21 09:11:26
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+114   2025-11-21 09:11:28
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+115   2025-11-21 09:11:31
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+116   2025-11-21 09:11:32
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+117   2025-11-21 09:11:37
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+118   2025-11-21 09:11:43
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+119   2025-11-21 09:11:43
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+120   2025-11-21 09:11:43
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+121   2025-11-21 09:11:52
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+122   2025-11-21 09:11:52
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+123   2025-11-21 09:12:08
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+124   2025-11-21 09:12:10
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+125   2025-11-21 09:12:13
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+126   2025-11-21 09:12:19
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+127   2025-11-21 09:12:20
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+128   2025-11-21 09:12:25
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+129   2025-11-21 09:12:39
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+130   2025-11-21 09:12:40
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+131   2025-11-21 09:12:51
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+132   2025-11-21 09:13:08
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+133   2025-11-21 09:13:16
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+134   2025-11-21 09:13:24
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+135   2025-11-21 09:13:30
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+136   2025-11-21 09:13:41
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+137   2025-11-21 09:13:44
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+138   2025-11-21 09:13:50
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+139   2025-11-21 09:14:00
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+140   2025-11-21 09:14:04
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+141   2025-11-21 09:14:16
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+142   2025-11-21 09:14:29
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+143   2025-11-21 09:14:32
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+144   2025-11-21 09:14:35
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+145   2025-11-21 09:14:38
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+146   2025-11-21 09:14:41
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+147   2025-11-21 09:14:58
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+148   2025-11-21 09:15:00
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+149   2025-11-21 09:15:06
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+150   2025-11-21 09:16:08
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+A1 Len: 19258412 R: 595036 W: 928876 Time: 21-11-2025 09:16:08
+A2 Len: 53408980 R: 1260668 W: 435868 Time: 21-11-2025 09:16:08
+A3 Len: 27710720 R: 1111560 W: 75008 Time: 21-11-2025 09:16:08
+A4 Len: 40103584 R: 183560 W: 481632 Time: 21-11-2025 09:16:08
+A5 Len: 16245524 R: 697064 W: 837512 Time: 21-11-2025 09:16:08
+A6 Len: 7752092 R: 730620 W: 1208128 Time: 21-11-2025 09:16:08
+A7 Len: 7751112 R: 584020 W: 971740 Time: 21-11-2025 09:16:08
+A8 Len: 7761744 R: 357640 W: 682076 Time: 21-11-2025 09:16:08
+D1 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D2 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D3 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D4 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D5 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D6 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D7 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D8 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D9 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D10 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+
+
+
+----------------------------
+151   2025-11-21 09:16:08
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+System status: 2
+User: 13%
+Sys: 13%
+Iowait: 0%
+Soft: 0%
+Idle: 72%
+Total memory: 158.11MB
+Free memory: 55.57MB
+Buffer: 8KB
+Cached: 0KB
+Main output: None(0)
+Main output status: 0
+Main output screen-division: 0
+Enable main output screensaver: 0
+Aux output: None(0)
+Aux output status: 0
+Aux output screen-division: 0
+Enable Aux output  screensaver: 0
+Current output: 0
+Motherboard temperature: 127
+DSP status: 
+CPU Temperature: 0
+Flash write frequency: 4
+
+
+
+----------------------------
+152   2025-11-21 09:17:04
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+153   2025-11-21 09:17:19
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+154   2025-11-21 09:17:23
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+155   2025-11-21 09:17:32
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+156   2025-11-21 09:17:33
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+157   2025-11-21 09:17:34
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+158   2025-11-21 09:17:35
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+159   2025-11-21 09:17:39
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+160   2025-11-21 09:17:39
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+161   2025-11-21 09:17:40
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+162   2025-11-21 09:17:43
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+163   2025-11-21 09:17:45
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+164   2025-11-21 09:17:46
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+165   2025-11-21 09:17:52
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+166   2025-11-21 09:18:13
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+167   2025-11-21 09:18:17
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+chan,chanType,recType,Stat,overflow,recordCommand,bPause,bSwitch,Online,Disk
+1,1,0,1,0,0,0,0,OFF,/dev/h_sda
+2,1,0,1,0,0,0,0,OFF,/dev/h_sda
+3,1,0,1,0,0,0,0,OFF,/dev/h_sda
+4,1,0,1,0,0,0,0,OFF,/dev/h_sda
+5,1,0,1,0,0,0,0,OFF,/dev/h_sda
+6,1,0,1,0,0,0,0,OFF,/dev/h_sda
+7,1,0,1,0,0,0,0,OFF,/dev/h_sda
+8,1,0,1,0,0,0,0,OFF,/dev/h_sda
+
+
+
+----------------------------
+168   2025-11-21 09:18:20
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+169   2025-11-21 09:18:21
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+170   2025-11-21 09:18:26
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+171   2025-11-21 09:18:35
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+172   2025-11-21 09:18:53
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+173   2025-11-21 09:18:54
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+174   2025-11-21 09:19:03
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+175   2025-11-21 09:19:08
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+176   2025-11-21 09:19:10
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+177   2025-11-21 09:19:17
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+178   2025-11-21 09:19:28
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+179   2025-11-21 09:19:34
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+180   2025-11-21 09:19:38
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+181   2025-11-21 09:19:44
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+182   2025-11-21 09:19:53
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+183   2025-11-21 09:19:57
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+184   2025-11-21 09:19:59
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+185   2025-11-21 09:20:20
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+186   2025-11-21 09:20:25
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+187   2025-11-21 09:20:26
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+188   2025-11-21 09:20:37
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+189   2025-11-21 09:20:42
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+190   2025-11-21 09:20:48
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+191   2025-11-21 09:20:50
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+192   2025-11-21 09:20:54
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+193   2025-11-21 09:20:55
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+194   2025-11-21 09:21:14
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+195   2025-11-21 09:21:15
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+196   2025-11-21 09:21:17
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+197   2025-11-21 09:21:21
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+198   2025-11-21 09:21:22
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+199   2025-11-21 09:21:23
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+200   2025-11-21 09:21:28
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+201   2025-11-21 09:21:34
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+202   2025-11-21 09:21:49
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+203   2025-11-21 09:21:55
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+204   2025-11-21 09:22:04
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+205   2025-11-21 09:22:07
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+206   2025-11-21 09:22:19
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+207   2025-11-21 09:22:29
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+208   2025-11-21 09:22:33
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+209   2025-11-21 09:22:35
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+210   2025-11-21 09:22:39
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+211   2025-11-21 09:22:50
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+212   2025-11-21 09:22:54
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+213   2025-11-21 09:22:56
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+214   2025-11-21 09:23:02
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+215   2025-11-21 09:23:05
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+216   2025-11-21 09:23:08
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+217   2025-11-21 09:23:08
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+218   2025-11-21 09:23:10
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+219   2025-11-21 09:23:13
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+220   2025-11-21 09:23:15
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+221   2025-11-21 09:23:19
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+222   2025-11-21 09:23:22
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+223   2025-11-21 09:23:23
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+224   2025-11-21 09:23:26
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+225   2025-11-21 09:23:27
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+226   2025-11-21 09:23:29
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+227   2025-11-21 09:23:39
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+228   2025-11-21 09:23:40
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+229   2025-11-21 09:23:40
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+230   2025-11-21 09:23:46
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+231   2025-11-21 09:23:55
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+232   2025-11-21 09:24:01
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+233   2025-11-21 09:24:04
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+234   2025-11-21 09:24:10
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+235   2025-11-21 09:24:11
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+236   2025-11-21 09:24:16
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+237   2025-11-21 09:24:22
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+238   2025-11-21 09:24:23
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+239   2025-11-21 09:24:23
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+240   2025-11-21 09:24:31
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+241   2025-11-21 09:24:37
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+242   2025-11-21 09:24:50
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+243   2025-11-21 09:24:56
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+244   2025-11-21 09:24:57
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+245   2025-11-21 09:25:03
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+246   2025-11-21 09:25:04
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Vehicle
+
+
+----------------------------
+247   2025-11-21 09:25:07
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+248   2025-11-21 09:25:10
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Vehicle
+
+
+----------------------------
+249   2025-11-21 09:25:14
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+250   2025-11-21 09:25:23
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+251   2025-11-21 09:25:32
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+252   2025-11-21 09:25:47
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+253   2025-11-21 09:25:49
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+254   2025-11-21 09:25:55
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+255   2025-11-21 09:26:08
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+A1 Len: 19735276 R: 731792 W: 1003352 Time: 21-11-2025 09:26:08
+A2 Len: 56306876 R: 116020 W: 381784 Time: 21-11-2025 09:26:08
+A3 Len: 27761200 R: 133604 W: 311088 Time: 21-11-2025 09:26:08
+A4 Len: 41289472 R: 812268 W: 1138784 Time: 21-11-2025 09:26:08
+A5 Len: 16737192 R: 445968 W: 535344 Time: 21-11-2025 09:26:08
+A6 Len: 7761368 R: 610248 W: 1105176 Time: 21-11-2025 09:26:08
+A7 Len: 7760484 R: 488732 W: 867904 Time: 21-11-2025 09:26:08
+A8 Len: 7767800 R: 244644 W: 585556 Time: 21-11-2025 09:26:08
+D1 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D2 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D3 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D4 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D5 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D6 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D7 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D8 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D9 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D10 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+
+
+
+----------------------------
+256   2025-11-21 09:26:08
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+System status: 2
+User: 4%
+Sys: 9%
+Iowait: 4%
+Soft: 0%
+Idle: 81%
+Total memory: 158.11MB
+Free memory: 55.49MB
+Buffer: 220KB
+Cached: 0KB
+Main output: None(0)
+Main output status: 0
+Main output screen-division: 0
+Enable main output screensaver: 0
+Aux output: None(0)
+Aux output status: 0
+Aux output screen-division: 0
+Enable Aux output  screensaver: 0
+Current output: 0
+Motherboard temperature: 127
+DSP status: 
+CPU Temperature: 0
+Flash write frequency: 4
+
+
+
+----------------------------
+257   2025-11-21 09:26:28
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+258   2025-11-21 09:26:29
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+259   2025-11-21 09:26:34
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+260   2025-11-21 09:26:34
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+261   2025-11-21 09:26:35
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+262   2025-11-21 09:26:44
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+263   2025-11-21 09:26:46
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+264   2025-11-21 09:26:58
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+265   2025-11-21 09:26:59
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+266   2025-11-21 09:27:00
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+267   2025-11-21 09:27:06
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+268   2025-11-21 09:27:07
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+269   2025-11-21 09:27:15
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+270   2025-11-21 09:27:16
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+271   2025-11-21 09:27:18
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+272   2025-11-21 09:27:26
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+273   2025-11-21 09:27:29
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+274   2025-11-21 09:27:32
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+275   2025-11-21 09:27:32
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+276   2025-11-21 09:27:32
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+277   2025-11-21 09:27:38
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+278   2025-11-21 09:27:39
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+279   2025-11-21 09:27:43
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+280   2025-11-21 09:27:48
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+281   2025-11-21 09:27:52
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+282   2025-11-21 09:27:54
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+283   2025-11-21 09:27:55
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+284   2025-11-21 09:27:58
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+285   2025-11-21 09:28:10
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+286   2025-11-21 09:28:16
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+287   2025-11-21 09:28:18
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+288   2025-11-21 09:28:18
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+chan,chanType,recType,Stat,overflow,recordCommand,bPause,bSwitch,Online,Disk
+1,1,0,1,0,0,0,0,OFF,/dev/h_sda
+2,1,0,1,0,0,0,0,OFF,/dev/h_sda
+3,1,0,1,0,0,0,0,OFF,/dev/h_sda
+4,1,0,1,0,0,0,0,OFF,/dev/h_sda
+5,1,0,1,0,0,0,0,OFF,/dev/h_sda
+6,1,0,1,0,0,0,0,OFF,/dev/h_sda
+7,1,0,1,0,0,0,0,OFF,/dev/h_sda
+8,1,0,1,0,0,0,0,OFF,/dev/h_sda
+
+
+
+----------------------------
+289   2025-11-21 09:28:26
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+290   2025-11-21 09:28:32
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+291   2025-11-21 09:28:33
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+292   2025-11-21 09:28:35
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+293   2025-11-21 09:28:38
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+294   2025-11-21 09:28:39
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+295   2025-11-21 09:28:43
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+296   2025-11-21 09:29:09
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+297   2025-11-21 09:29:14
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+298   2025-11-21 09:29:19
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+299   2025-11-21 09:29:36
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+300   2025-11-21 09:29:42
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+301   2025-11-21 09:29:42
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+302   2025-11-21 09:29:54
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+303   2025-11-21 09:30:04
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+304   2025-11-21 09:30:07
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+305   2025-11-21 09:30:46
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+306   2025-11-21 09:30:46
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+307   2025-11-21 09:30:57
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+308   2025-11-21 09:31:02
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+309   2025-11-21 09:31:06
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+310   2025-11-21 09:31:11
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+311   2025-11-21 09:31:11
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+312   2025-11-21 09:31:16
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+313   2025-11-21 09:31:22
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+314   2025-11-21 09:31:23
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+315   2025-11-21 09:31:24
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+316   2025-11-21 09:31:30
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+317   2025-11-21 09:31:39
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+318   2025-11-21 09:31:49
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+319   2025-11-21 09:31:49
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+320   2025-11-21 09:31:52
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+321   2025-11-21 09:31:55
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+322   2025-11-21 09:32:01
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+323   2025-11-21 09:32:01
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+324   2025-11-21 09:32:06
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+325   2025-11-21 09:32:09
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+326   2025-11-21 09:32:20
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+327   2025-11-21 09:32:22
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+328   2025-11-21 09:32:24
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+329   2025-11-21 09:32:43
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+330   2025-11-21 09:32:49
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+331   2025-11-21 09:32:54
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+332   2025-11-21 09:32:57
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+333   2025-11-21 09:32:58
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+334   2025-11-21 09:33:09
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+335   2025-11-21 09:33:09
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+336   2025-11-21 09:33:10
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+337   2025-11-21 09:33:16
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+338   2025-11-21 09:33:19
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+339   2025-11-21 09:33:19
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+340   2025-11-21 09:33:27
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+341   2025-11-21 09:33:28
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+342   2025-11-21 09:33:33
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+343   2025-11-21 09:33:34
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+344   2025-11-21 09:33:34
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+345   2025-11-21 09:33:38
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+346   2025-11-21 09:33:40
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+347   2025-11-21 09:33:43
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+348   2025-11-21 09:34:15
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+349   2025-11-21 09:34:21
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+350   2025-11-21 09:34:22
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+351   2025-11-21 09:34:28
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+352   2025-11-21 09:34:34
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+353   2025-11-21 09:34:40
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+354   2025-11-21 09:34:49
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+355   2025-11-21 09:34:56
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+356   2025-11-21 09:34:58
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+357   2025-11-21 09:35:04
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+358   2025-11-21 09:35:17
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+359   2025-11-21 09:35:26
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+360   2025-11-21 09:35:28
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+361   2025-11-21 09:35:28
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+362   2025-11-21 09:35:32
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+363   2025-11-21 09:35:34
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+364   2025-11-21 09:35:35
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+365   2025-11-21 09:35:48
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+366   2025-11-21 09:35:48
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+367   2025-11-21 09:35:50
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+368   2025-11-21 09:35:54
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+369   2025-11-21 09:35:54
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+370   2025-11-21 09:35:55
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+371   2025-11-21 09:35:58
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+372   2025-11-21 09:36:00
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+373   2025-11-21 09:36:08
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+A1 Len: 19661788 R: 724292 W: 1004340 Time: 21-11-2025 09:36:08
+A2 Len: 59280072 R: 402752 W: 679456 Time: 21-11-2025 09:36:08
+A3 Len: 27518904 R: 129308 W: 304872 Time: 21-11-2025 09:36:08
+A4 Len: 41660900 R: 459524 W: 856644 Time: 21-11-2025 09:36:08
+A5 Len: 16838396 R: 57192 W: 334380 Time: 21-11-2025 09:36:08
+A6 Len: 7770528 R: 527856 W: 1011384 Time: 21-11-2025 09:36:08
+A7 Len: 7769540 R: 392584 W: 773124 Time: 21-11-2025 09:36:08
+A8 Len: 7776128 R: 167808 W: 497364 Time: 21-11-2025 09:36:08
+D1 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D2 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D3 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D4 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D5 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D6 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D7 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D8 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D9 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D10 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+
+
+
+----------------------------
+374   2025-11-21 09:36:08
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+System status: 2
+User: 4%
+Sys: 0%
+Iowait: 4%
+Soft: 0%
+Idle: 90%
+Total memory: 158.11MB
+Free memory: 55.72MB
+Buffer: 12KB
+Cached: 0KB
+Main output: None(0)
+Main output status: 0
+Main output screen-division: 0
+Enable main output screensaver: 0
+Aux output: None(0)
+Aux output status: 0
+Aux output screen-division: 0
+Enable Aux output  screensaver: 0
+Current output: 0
+Motherboard temperature: 127
+DSP status: 
+CPU Temperature: 0
+Flash write frequency: 4
+
+
+
+----------------------------
+375   2025-11-21 09:36:13
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+376   2025-11-21 09:36:14
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+377   2025-11-21 09:36:18
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+378   2025-11-21 09:36:25
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+379   2025-11-21 09:36:35
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+380   2025-11-21 09:36:37
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+381   2025-11-21 09:36:43
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+382   2025-11-21 09:37:00
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+383   2025-11-21 09:37:07
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+384   2025-11-21 09:37:08
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+385   2025-11-21 09:37:10
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+386   2025-11-21 09:37:13
+----------------------------
+Major Type: Information
+Minor Type: HDD S.M.A.R.T.
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+HDD No.: 1
+
+Hard disk = 1
+Firmware = SC11
+Model     = ST1000VM002-1SD102
+Serial    = Z9C5F6PH
+ID  Attribute name                      Flags   Threshold   Value   Worst   Raw Value   Status  
+
+1   Raw Read Error Rate                 f       6           82      63      179370496   OK      
+3   Spin Up Time                        3       0           97      97      0           OK      
+4   Start/Stop Count                    32      20          100     100     864         OK      
+5   Reallocated Sector Count            33      10          100     100     0           OK      
+7   Seek Error Rate                     f       45          74      60      27803882    OK      
+9   Power-on Hours Count                32      0           93      93      6466        OK      
+a   Spin Up Retry Count                 13      97          100     100     0           OK      
+c   Power Cycle Count                   32      20          100     100     866         OK      
+b8  L2P error count                     32      99          100     100     0           OK      
+bb  Reported Uncorrectable Errors       32      0           96      96      4           OK      
+bc  Command Timeout                     32      0           100     100     0           OK      
+bd  High Fly Writes                     3a      0           100     100     0           OK      
+be  Temperature Difference from 100     22      40          56      40      807600172   OK      
+c1  Load/Unload Cycle Count             32      0           100     100     936         OK      
+c2  Power temperature                   22      0           44      25      107374182444OK      
+c3  ECC on the Fly count                1a      0           8       4       179370496   OK      
+c5  Current Pending Sector Count        12      0           100     100     0           OK      
+c6  Off-line Scan Uncorrect. Sector Count   10      0           100     100     0           OK      
+c7  Ultra ATA CRC Error Rate            3e      0           200     200     0           OK      
+
+
+
+----------------------------
+387   2025-11-21 09:37:17
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+388   2025-11-21 09:37:18
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+389   2025-11-21 09:37:22
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+390   2025-11-21 09:37:25
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+391   2025-11-21 09:37:28
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+392   2025-11-21 09:37:34
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+393   2025-11-21 09:37:39
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+394   2025-11-21 09:37:43
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+395   2025-11-21 09:37:45
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+396   2025-11-21 09:37:49
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+397   2025-11-21 09:37:49
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+398   2025-11-21 09:38:19
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+chan,chanType,recType,Stat,overflow,recordCommand,bPause,bSwitch,Online,Disk
+1,1,0,1,0,0,0,0,OFF,/dev/h_sda
+2,1,0,1,0,0,0,0,OFF,/dev/h_sda
+3,1,0,1,0,0,0,0,OFF,/dev/h_sda
+4,1,0,1,0,0,0,0,OFF,/dev/h_sda
+5,1,0,1,0,0,0,0,OFF,/dev/h_sda
+6,1,0,1,0,0,0,0,OFF,/dev/h_sda
+7,1,0,1,0,0,0,0,OFF,/dev/h_sda
+8,1,0,1,0,0,0,0,OFF,/dev/h_sda
+
+
+
+----------------------------
+399   2025-11-21 09:38:19
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+400   2025-11-21 09:38:50
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+401   2025-11-21 09:38:55
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+402   2025-11-21 09:38:57
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+403   2025-11-21 09:39:06
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+404   2025-11-21 09:39:07
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+405   2025-11-21 09:39:19
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+406   2025-11-21 09:39:23
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+407   2025-11-21 09:39:36
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+408   2025-11-21 09:39:43
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+409   2025-11-21 09:39:49
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+410   2025-11-21 09:39:50
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+411   2025-11-21 09:39:51
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+412   2025-11-21 09:39:56
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+413   2025-11-21 09:39:58
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+414   2025-11-21 09:39:58
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+415   2025-11-21 09:40:01
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+416   2025-11-21 09:40:04
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+417   2025-11-21 09:40:04
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+418   2025-11-21 09:40:07
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+419   2025-11-21 09:40:13
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+420   2025-11-21 09:40:14
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+421   2025-11-21 09:40:20
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+422   2025-11-21 09:40:30
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+423   2025-11-21 09:40:35
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+424   2025-11-21 09:40:36
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+425   2025-11-21 09:40:36
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+426   2025-11-21 09:40:40
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+427   2025-11-21 09:40:43
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+428   2025-11-21 09:40:43
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+429   2025-11-21 09:40:49
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+430   2025-11-21 09:40:50
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+431   2025-11-21 09:40:58
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+432   2025-11-21 09:40:58
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+433   2025-11-21 09:41:04
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+434   2025-11-21 09:41:04
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+435   2025-11-21 09:41:07
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+436   2025-11-21 09:41:11
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+437   2025-11-21 09:41:17
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+438   2025-11-21 09:41:19
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+439   2025-11-21 09:41:26
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+440   2025-11-21 09:41:31
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+441   2025-11-21 09:41:40
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+442   2025-11-21 09:42:02
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+443   2025-11-21 09:42:14
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+444   2025-11-21 09:42:53
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+445   2025-11-21 09:43:00
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+446   2025-11-21 09:43:01
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+447   2025-11-21 09:43:01
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+448   2025-11-21 09:43:07
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+449   2025-11-21 09:43:17
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+450   2025-11-21 09:43:18
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+451   2025-11-21 09:43:25
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+452   2025-11-21 09:43:47
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+453   2025-11-21 09:43:51
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+454   2025-11-21 09:43:53
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+455   2025-11-21 09:43:55
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+456   2025-11-21 09:44:01
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+457   2025-11-21 09:44:04
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+458   2025-11-21 09:44:06
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+459   2025-11-21 09:44:14
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+460   2025-11-21 09:44:36
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+461   2025-11-21 09:44:46
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+462   2025-11-21 09:44:51
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+463   2025-11-21 09:44:58
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+464   2025-11-21 09:45:04
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+465   2025-11-21 09:45:10
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+466   2025-11-21 09:45:20
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+467   2025-11-21 09:45:24
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+468   2025-11-21 09:45:28
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+469   2025-11-21 09:45:32
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+470   2025-11-21 09:45:36
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+471   2025-11-21 09:45:47
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+472   2025-11-21 09:45:53
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+473   2025-11-21 09:45:56
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+474   2025-11-21 09:46:03
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+475   2025-11-21 09:46:07
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+476   2025-11-21 09:46:08
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+A1 Len: 19981092 R: 1045956 W: 13912 Time: 21-11-2025 09:46:08
+A2 Len: 52410668 R: 195272 W: 661324 Time: 21-11-2025 09:46:08
+A3 Len: 27186156 R: 1100356 W: 1276628 Time: 21-11-2025 09:46:08
+A4 Len: 40003016 R: 1138828 W: 227340 Time: 21-11-2025 09:46:08
+A5 Len: 14744840 R: 509008 W: 661300 Time: 21-11-2025 09:46:08
+A6 Len: 7761552 R: 424068 W: 908616 Time: 21-11-2025 09:46:08
+A7 Len: 7760000 R: 274000 W: 668804 Time: 21-11-2025 09:46:08
+A8 Len: 7767060 R: 69172 W: 400104 Time: 21-11-2025 09:46:08
+D1 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D2 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D3 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D4 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D5 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D6 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D7 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D8 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D9 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D10 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+
+
+
+----------------------------
+477   2025-11-21 09:46:08
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+System status: 2
+User: 0%
+Sys: 4%
+Iowait: 0%
+Soft: 0%
+Idle: 95%
+Total memory: 158.11MB
+Free memory: 55.76MB
+Buffer: 8KB
+Cached: 0KB
+Main output: None(0)
+Main output status: 0
+Main output screen-division: 0
+Enable main output screensaver: 0
+Aux output: None(0)
+Aux output status: 0
+Aux output screen-division: 0
+Enable Aux output  screensaver: 0
+Current output: 0
+Motherboard temperature: 127
+DSP status: 
+CPU Temperature: 0
+Flash write frequency: 4
+
+
+
+----------------------------
+478   2025-11-21 09:46:45
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+479   2025-11-21 09:46:54
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+480   2025-11-21 09:46:54
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+481   2025-11-21 09:47:05
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+482   2025-11-21 09:48:20
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+chan,chanType,recType,Stat,overflow,recordCommand,bPause,bSwitch,Online,Disk
+1,1,0,1,0,0,0,0,OFF,/dev/h_sda
+2,1,0,1,0,0,0,0,OFF,/dev/h_sda
+3,1,0,1,0,0,0,0,OFF,/dev/h_sda
+4,1,0,1,0,0,0,0,OFF,/dev/h_sda
+5,1,0,1,0,0,0,0,OFF,/dev/h_sda
+6,1,0,1,0,0,0,0,OFF,/dev/h_sda
+7,1,0,1,0,0,0,0,OFF,/dev/h_sda
+8,1,0,1,0,0,0,0,OFF,/dev/h_sda
+
+
+
+----------------------------
+483   2025-11-21 09:48:53
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+484   2025-11-21 09:49:09
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+485   2025-11-21 09:49:15
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+486   2025-11-21 09:49:24
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+487   2025-11-21 09:49:26
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+488   2025-11-21 09:49:26
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+489   2025-11-21 09:49:32
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+490   2025-11-21 09:49:35
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+491   2025-11-21 09:49:42
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+492   2025-11-21 09:49:49
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+493   2025-11-21 09:49:54
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+494   2025-11-21 09:50:01
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+495   2025-11-21 09:51:05
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+496   2025-11-21 09:51:11
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+497   2025-11-21 09:51:12
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+498   2025-11-21 09:51:21
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+499   2025-11-21 09:51:25
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+500   2025-11-21 09:51:25
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+501   2025-11-21 09:51:27
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+502   2025-11-21 09:51:31
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+503   2025-11-21 09:52:11
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+504   2025-11-21 09:52:16
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+505   2025-11-21 09:52:17
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+506   2025-11-21 09:52:34
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+507   2025-11-21 09:53:35
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+508   2025-11-21 09:53:41
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+509   2025-11-21 09:53:43
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+510   2025-11-21 09:53:53
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+511   2025-11-21 09:53:53
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+512   2025-11-21 09:53:54
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+513   2025-11-21 09:53:59
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+514   2025-11-21 09:54:13
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+515   2025-11-21 09:54:17
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+516   2025-11-21 09:54:38
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+517   2025-11-21 09:54:49
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+518   2025-11-21 09:54:55
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+519   2025-11-21 09:56:08
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+A1 Len: 19091996 R: 352864 W: 755828 Time: 21-11-2025 09:56:08
+A2 Len: 47427708 R: 675580 W: 903112 Time: 21-11-2025 09:56:08
+A3 Len: 27117784 R: 688440 W: 869292 Time: 21-11-2025 09:56:08
+A4 Len: 39490360 R: 6228 W: 396100 Time: 21-11-2025 09:56:08
+A5 Len: 13961856 R: 163284 W: 205236 Time: 21-11-2025 09:56:08
+A6 Len: 7759668 R: 317216 W: 803964 Time: 21-11-2025 09:56:08
+A7 Len: 7758344 R: 166196 W: 562828 Time: 21-11-2025 09:56:08
+A8 Len: 7765344 R: 1279080 W: 301128 Time: 21-11-2025 09:56:08
+D1 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D2 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D3 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D4 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D5 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D6 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D7 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D8 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D9 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D10 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+
+
+
+----------------------------
+520   2025-11-21 09:56:08
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+System status: 2
+User: 0%
+Sys: 9%
+Iowait: 4%
+Soft: 0%
+Idle: 86%
+Total memory: 158.11MB
+Free memory: 55.71MB
+Buffer: 12KB
+Cached: 0KB
+Main output: None(0)
+Main output status: 0
+Main output screen-division: 0
+Enable main output screensaver: 0
+Aux output: None(0)
+Aux output status: 0
+Aux output screen-division: 0
+Enable Aux output  screensaver: 0
+Current output: 0
+Motherboard temperature: 127
+DSP status: 
+CPU Temperature: 0
+Flash write frequency: 4
+
+
+
+----------------------------
+521   2025-11-21 09:56:15
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+522   2025-11-21 09:56:24
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+523   2025-11-21 09:56:50
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+524   2025-11-21 09:56:56
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+525   2025-11-21 09:57:24
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+526   2025-11-21 09:57:30
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+527   2025-11-21 09:57:59
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+528   2025-11-21 09:58:07
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+529   2025-11-21 09:58:10
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+530   2025-11-21 09:58:16
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+531   2025-11-21 09:58:21
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+chan,chanType,recType,Stat,overflow,recordCommand,bPause,bSwitch,Online,Disk
+1,1,0,1,0,0,0,0,OFF,/dev/h_sda
+2,1,0,1,0,0,0,0,OFF,/dev/h_sda
+3,1,0,1,0,0,0,0,OFF,/dev/h_sda
+4,1,0,1,0,0,0,0,OFF,/dev/h_sda
+5,1,0,1,0,0,0,0,OFF,/dev/h_sda
+6,1,0,1,0,0,0,0,OFF,/dev/h_sda
+7,1,0,1,0,0,0,0,OFF,/dev/h_sda
+8,1,0,1,0,0,0,0,OFF,/dev/h_sda
+
+
+
+----------------------------
+532   2025-11-21 09:58:54
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+533   2025-11-21 09:59:04
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+534   2025-11-21 09:59:21
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+535   2025-11-21 09:59:26
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+536   2025-11-21 09:59:30
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+537   2025-11-21 09:59:32
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+538   2025-11-21 10:00:04
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+539   2025-11-21 10:00:10
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+540   2025-11-21 10:00:14
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+541   2025-11-21 10:00:20
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+542   2025-11-21 10:01:41
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+543   2025-11-21 10:01:48
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+544   2025-11-21 10:01:53
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+545   2025-11-21 10:02:05
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+546   2025-11-21 10:02:06
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+547   2025-11-21 10:02:12
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+548   2025-11-21 10:03:42
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Vehicle
+
+
+----------------------------
+549   2025-11-21 10:03:48
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Vehicle
+
+
+----------------------------
+550   2025-11-21 10:04:01
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+551   2025-11-21 10:04:07
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+552   2025-11-21 10:04:08
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+553   2025-11-21 10:04:25
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+554   2025-11-21 10:04:30
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+555   2025-11-21 10:04:32
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+556   2025-11-21 10:04:36
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+557   2025-11-21 10:04:39
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+558   2025-11-21 10:04:41
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+559   2025-11-21 10:04:53
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+560   2025-11-21 10:04:54
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+561   2025-11-21 10:05:01
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+562   2025-11-21 10:05:08
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+563   2025-11-21 10:05:12
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+564   2025-11-21 10:05:14
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+565   2025-11-21 10:05:20
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+566   2025-11-21 10:05:29
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+567   2025-11-21 10:05:40
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+568   2025-11-21 10:06:08
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+A1 Len: 18220252 R: 406292 W: 626000 Time: 21-11-2025 10:06:08
+A2 Len: 47585648 R: 994708 W: 1302840 Time: 21-11-2025 10:06:08
+A3 Len: 26657116 R: 1095036 W: 1288 Time: 21-11-2025 10:06:08
+A4 Len: 39316460 R: 56848 W: 390960 Time: 21-11-2025 10:06:08
+A5 Len: 13447340 R: 507716 W: 545376 Time: 21-11-2025 10:06:08
+A6 Len: 7761816 R: 222704 W: 701460 Time: 21-11-2025 10:06:08
+A7 Len: 7760916 R: 70360 W: 459424 Time: 21-11-2025 10:06:08
+A8 Len: 7768080 R: 1177484 W: 204888 Time: 21-11-2025 10:06:08
+D1 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D2 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D3 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D4 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D5 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D6 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D7 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D8 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D9 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D10 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+
+
+
+----------------------------
+569   2025-11-21 10:06:08
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+System status: 2
+User: 0%
+Sys: 9%
+Iowait: 0%
+Soft: 0%
+Idle: 90%
+Total memory: 158.11MB
+Free memory: 55.69MB
+Buffer: 8KB
+Cached: 0KB
+Main output: None(0)
+Main output status: 0
+Main output screen-division: 0
+Enable main output screensaver: 0
+Aux output: None(0)
+Aux output status: 0
+Aux output screen-division: 0
+Enable Aux output  screensaver: 0
+Current output: 0
+Motherboard temperature: 127
+DSP status: 
+CPU Temperature: 0
+Flash write frequency: 4
+
+
+
+----------------------------
+570   2025-11-21 10:06:23
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+571   2025-11-21 10:06:29
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+572   2025-11-21 10:06:56
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+573   2025-11-21 10:07:06
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+574   2025-11-21 10:08:22
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+chan,chanType,recType,Stat,overflow,recordCommand,bPause,bSwitch,Online,Disk
+1,1,0,1,0,0,0,0,OFF,/dev/h_sda
+2,1,0,1,0,0,0,0,OFF,/dev/h_sda
+3,1,0,1,0,0,0,0,OFF,/dev/h_sda
+4,1,0,1,0,0,0,0,OFF,/dev/h_sda
+5,1,0,1,0,0,0,0,OFF,/dev/h_sda
+6,1,0,1,0,0,0,0,OFF,/dev/h_sda
+7,1,0,1,0,0,0,0,OFF,/dev/h_sda
+8,1,0,1,0,0,0,0,OFF,/dev/h_sda
+
+
+
+----------------------------
+575   2025-11-21 10:11:32
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+576   2025-11-21 10:11:38
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+577   2025-11-21 10:11:40
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+578   2025-11-21 10:11:53
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+579   2025-11-21 10:12:33
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+580   2025-11-21 10:12:37
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+581   2025-11-21 10:12:39
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+582   2025-11-21 10:12:41
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+583   2025-11-21 10:12:45
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+584   2025-11-21 10:12:47
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+585   2025-11-21 10:15:36
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+586   2025-11-21 10:15:43
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Vehicle
+
+
+----------------------------
+587   2025-11-21 10:15:44
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+588   2025-11-21 10:15:49
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Vehicle
+
+
+----------------------------
+589   2025-11-21 10:16:08
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+A1 Len: 17378204 R: 709668 W: 964844 Time: 21-11-2025 10:16:08
+A2 Len: 48002804 R: 436996 W: 809004 Time: 21-11-2025 10:16:08
+A3 Len: 26098616 R: 986540 W: 1196224 Time: 21-11-2025 10:16:08
+A4 Len: 38501444 R: 464832 W: 881524 Time: 21-11-2025 10:16:08
+A5 Len: 13091844 R: 384088 W: 530020 Time: 21-11-2025 10:16:08
+A6 Len: 7738352 R: 96500 W: 575492 Time: 21-11-2025 10:16:08
+A7 Len: 7735900 R: 1252544 W: 331004 Time: 21-11-2025 10:16:08
+A8 Len: 7742132 R: 1067540 W: 82700 Time: 21-11-2025 10:16:08
+D1 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D2 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D3 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D4 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D5 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D6 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D7 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D8 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D9 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D10 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+
+
+
+----------------------------
+590   2025-11-21 10:16:09
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+System status: 2
+User: 4%
+Sys: 13%
+Iowait: 0%
+Soft: 0%
+Idle: 81%
+Total memory: 158.11MB
+Free memory: 55.70MB
+Buffer: 8KB
+Cached: 0KB
+Main output: None(0)
+Main output status: 0
+Main output screen-division: 0
+Enable main output screensaver: 0
+Aux output: None(0)
+Aux output status: 0
+Aux output screen-division: 0
+Enable Aux output  screensaver: 0
+Current output: 0
+Motherboard temperature: 127
+DSP status: 
+CPU Temperature: 0
+Flash write frequency: 4
+
+
+
+----------------------------
+591   2025-11-21 10:16:14
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+592   2025-11-21 10:16:25
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+593   2025-11-21 10:16:31
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+594   2025-11-21 10:16:49
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+595   2025-11-21 10:17:00
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+596   2025-11-21 10:17:06
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+597   2025-11-21 10:18:04
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+598   2025-11-21 10:18:10
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+599   2025-11-21 10:18:16
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+600   2025-11-21 10:18:18
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+601   2025-11-21 10:18:18
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+602   2025-11-21 10:18:23
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+chan,chanType,recType,Stat,overflow,recordCommand,bPause,bSwitch,Online,Disk
+1,1,0,1,0,0,0,0,OFF,/dev/h_sda
+2,1,0,1,0,0,0,0,OFF,/dev/h_sda
+3,1,0,1,0,0,0,0,OFF,/dev/h_sda
+4,1,0,1,0,0,0,0,OFF,/dev/h_sda
+5,1,0,1,0,0,0,0,OFF,/dev/h_sda
+6,1,0,1,0,0,0,0,OFF,/dev/h_sda
+7,1,0,1,0,0,0,0,OFF,/dev/h_sda
+8,1,0,1,0,0,0,0,OFF,/dev/h_sda
+
+
+
+----------------------------
+603   2025-11-21 10:18:23
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+604   2025-11-21 10:18:26
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+605   2025-11-21 10:18:39
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+606   2025-11-21 10:21:26
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A3
+
+Vehicle
+
+
+----------------------------
+607   2025-11-21 10:21:28
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Vehicle
+
+
+----------------------------
+608   2025-11-21 10:21:32
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A3
+
+Vehicle
+
+
+----------------------------
+609   2025-11-21 10:21:36
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Vehicle
+
+
+----------------------------
+610   2025-11-21 10:21:36
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+611   2025-11-21 10:21:42
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+612   2025-11-21 10:21:47
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+613   2025-11-21 10:21:51
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+614   2025-11-21 10:21:58
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+615   2025-11-21 10:22:01
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+616   2025-11-21 10:22:02
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+617   2025-11-21 10:22:11
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+618   2025-11-21 10:22:11
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+619   2025-11-21 10:22:17
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+620   2025-11-21 10:23:09
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+621   2025-11-21 10:23:13
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+622   2025-11-21 10:23:16
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+623   2025-11-21 10:23:19
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Human
+
+
+----------------------------
+624   2025-11-21 10:24:57
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+625   2025-11-21 10:25:03
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+626   2025-11-21 10:26:09
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+A1 Len: 17904012 R: 260480 W: 518776 Time: 21-11-2025 10:26:08
+A2 Len: 50898004 R: 207712 W: 588928 Time: 21-11-2025 10:26:08
+A3 Len: 26382180 R: 1153920 W: 53284 Time: 21-11-2025 10:26:08
+A4 Len: 39797668 R: 1177296 W: 46872 Time: 21-11-2025 10:26:08
+A5 Len: 13564068 R: 524736 W: 986888 Time: 21-11-2025 10:26:08
+A6 Len: 7744560 R: 1284120 W: 455732 Time: 21-11-2025 10:26:08
+A7 Len: 7743432 R: 1128240 W: 210116 Time: 21-11-2025 10:26:08
+A8 Len: 7749752 R: 937256 W: 1278852 Time: 21-11-2025 10:26:08
+D1 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D2 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D3 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D4 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D5 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D6 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D7 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D8 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D9 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D10 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+
+
+
+----------------------------
+627   2025-11-21 10:26:09
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+System status: 2
+User: 0%
+Sys: 0%
+Iowait: 4%
+Soft: 9%
+Idle: 86%
+Total memory: 158.11MB
+Free memory: 55.65MB
+Buffer: 8KB
+Cached: 0KB
+Main output: None(0)
+Main output status: 0
+Main output screen-division: 0
+Enable main output screensaver: 0
+Aux output: None(0)
+Aux output status: 0
+Aux output screen-division: 0
+Enable Aux output  screensaver: 0
+Current output: 0
+Motherboard temperature: 127
+DSP status: 
+CPU Temperature: 0
+Flash write frequency: 4
+
+
+
+----------------------------
+628   2025-11-21 10:26:23
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+629   2025-11-21 10:26:27
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+630   2025-11-21 10:26:29
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+631   2025-11-21 10:26:33
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+632   2025-11-21 10:26:40
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+633   2025-11-21 10:26:45
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+634   2025-11-21 10:26:51
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+635   2025-11-21 10:26:52
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+636   2025-11-21 10:26:57
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+637   2025-11-21 10:26:58
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+638   2025-11-21 10:27:05
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+639   2025-11-21 10:27:15
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+640   2025-11-21 10:27:17
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+641   2025-11-21 10:27:21
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+642   2025-11-21 10:27:27
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+643   2025-11-21 10:27:29
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+644   2025-11-21 10:27:41
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+645   2025-11-21 10:27:43
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+646   2025-11-21 10:27:49
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+647   2025-11-21 10:27:49
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+648   2025-11-21 10:28:01
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+649   2025-11-21 10:28:07
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+650   2025-11-21 10:28:07
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+651   2025-11-21 10:28:13
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+652   2025-11-21 10:28:24
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+chan,chanType,recType,Stat,overflow,recordCommand,bPause,bSwitch,Online,Disk
+1,1,0,1,0,0,0,0,OFF,/dev/h_sda
+2,1,0,1,0,0,0,0,OFF,/dev/h_sda
+3,1,0,1,0,0,0,0,OFF,/dev/h_sda
+4,1,0,1,0,0,0,0,OFF,/dev/h_sda
+5,1,0,1,0,0,0,0,OFF,/dev/h_sda
+6,1,0,1,0,0,0,0,OFF,/dev/h_sda
+7,1,0,1,0,0,0,0,OFF,/dev/h_sda
+8,1,0,1,0,0,0,0,OFF,/dev/h_sda
+
+
+
+----------------------------
+653   2025-11-21 10:28:25
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+654   2025-11-21 10:28:32
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+655   2025-11-21 10:28:43
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+656   2025-11-21 10:28:49
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+657   2025-11-21 10:28:53
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+658   2025-11-21 10:28:59
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+659   2025-11-21 10:29:09
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+660   2025-11-21 10:29:17
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+661   2025-11-21 10:29:33
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+662   2025-11-21 10:29:39
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A4
+
+Human
+
+
+----------------------------
+663   2025-11-21 10:29:51
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+664   2025-11-21 10:29:57
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+665   2025-11-21 10:30:41
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+666   2025-11-21 10:30:51
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+667   2025-11-21 10:32:28
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+668   2025-11-21 10:32:35
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+669   2025-11-21 10:33:29
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+670   2025-11-21 10:33:35
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Human
+
+
+----------------------------
+671   2025-11-21 10:33:39
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+672   2025-11-21 10:33:48
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Vehicle
+
+
+----------------------------
+673   2025-11-21 10:33:49
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+674   2025-11-21 10:33:55
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A5
+
+Vehicle
+
+
+----------------------------
+675   2025-11-21 10:36:09
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+A1 Len: 19386940 R: 1248272 W: 244916 Time: 21-11-2025 10:36:09
+A2 Len: 50786040 R: 1217300 W: 256888 Time: 21-11-2025 10:36:09
+A3 Len: 26361836 R: 1132052 W: 200720 Time: 21-11-2025 10:36:09
+A4 Len: 38557704 R: 249256 W: 593696 Time: 21-11-2025 10:36:09
+A5 Len: 13130988 R: 536004 W: 1010676 Time: 21-11-2025 10:36:09
+A6 Len: 7752748 R: 1170756 W: 344160 Time: 21-11-2025 10:36:09
+A7 Len: 7751768 R: 1014080 W: 97564 Time: 21-11-2025 10:36:09
+A8 Len: 7758776 R: 830044 W: 1173308 Time: 21-11-2025 10:36:09
+D1 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D2 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D3 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D4 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D5 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D6 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D7 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D8 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D9 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D10 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+
+
+
+----------------------------
+676   2025-11-21 10:36:09
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+System status: 2
+User: 0%
+Sys: 13%
+Iowait: 9%
+Soft: 4%
+Idle: 72%
+Total memory: 158.11MB
+Free memory: 55.71MB
+Buffer: 12KB
+Cached: 0KB
+Main output: None(0)
+Main output status: 0
+Main output screen-division: 0
+Enable main output screensaver: 0
+Aux output: None(0)
+Aux output status: 0
+Aux output screen-division: 0
+Enable Aux output  screensaver: 0
+Current output: 0
+Motherboard temperature: 127
+DSP status: 
+CPU Temperature: 0
+Flash write frequency: 4
+
+
+
+----------------------------
+677   2025-11-21 10:36:51
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+678   2025-11-21 10:36:59
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+679   2025-11-21 10:37:05
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+680   2025-11-21 10:37:11
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+681   2025-11-21 10:37:15
+----------------------------
+Major Type: Information
+Minor Type: HDD S.M.A.R.T.
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+HDD No.: 1
+
+Hard disk = 1
+Firmware = SC11
+Model     = ST1000VM002-1SD102
+Serial    = Z9C5F6PH
+ID  Attribute name                      Flags   Threshold   Value   Worst   Raw Value   Status  
+
+1   Raw Read Error Rate                 f       6           82      63      181416408   OK      
+3   Spin Up Time                        3       0           97      97      0           OK      
+4   Start/Stop Count                    32      20          100     100     864         OK      
+5   Reallocated Sector Count            33      10          100     100     0           OK      
+7   Seek Error Rate                     f       45          74      60      27811103    OK      
+9   Power-on Hours Count                32      0           93      93      6467        OK      
+a   Spin Up Retry Count                 13      97          100     100     0           OK      
+c   Power Cycle Count                   32      20          100     100     866         OK      
+b8  L2P error count                     32      99          100     100     0           OK      
+bb  Reported Uncorrectable Errors       32      0           96      96      4           OK      
+bc  Command Timeout                     32      0           100     100     0           OK      
+bd  High Fly Writes                     3a      0           100     100     0           OK      
+be  Temperature Difference from 100     22      40          54      40      807600174   OK      
+c1  Load/Unload Cycle Count             32      0           100     100     936         OK      
+c2  Power temperature                   22      0           46      25      107374182446OK      
+c3  ECC on the Fly count                1a      0           8       4       181416408   OK      
+c5  Current Pending Sector Count        12      0           100     100     0           OK      
+c6  Off-line Scan Uncorrect. Sector Count   10      0           100     100     0           OK      
+c7  Ultra ATA CRC Error Rate            3e      0           200     200     0           OK      
+
+
+
+----------------------------
+682   2025-11-21 10:37:19
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+683   2025-11-21 10:37:27
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+684   2025-11-21 10:37:33
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+685   2025-11-21 10:37:41
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+686   2025-11-21 10:38:25
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+chan,chanType,recType,Stat,overflow,recordCommand,bPause,bSwitch,Online,Disk
+1,1,0,1,0,0,0,0,OFF,/dev/h_sda
+2,1,0,1,0,0,0,0,OFF,/dev/h_sda
+3,1,0,1,0,0,0,0,OFF,/dev/h_sda
+4,1,0,1,0,0,0,0,OFF,/dev/h_sda
+5,1,0,1,0,0,0,0,OFF,/dev/h_sda
+6,1,0,1,0,0,0,0,OFF,/dev/h_sda
+7,1,0,1,0,0,0,0,OFF,/dev/h_sda
+8,1,0,1,0,0,0,0,OFF,/dev/h_sda
+
+
+
+----------------------------
+687   2025-11-21 10:40:37
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+688   2025-11-21 10:40:43
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+689   2025-11-21 10:41:25
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+690   2025-11-21 10:41:31
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+691   2025-11-21 10:41:31
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+692   2025-11-21 10:41:41
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+693   2025-11-21 10:41:56
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+694   2025-11-21 10:42:03
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A1
+
+Human
+
+
+----------------------------
+695   2025-11-21 10:42:10
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+696   2025-11-21 10:42:16
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+697   2025-11-21 10:42:18
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Started
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+----------------------------
+698   2025-11-21 10:42:24
+----------------------------
+Major Type: Alarm
+Minor Type: Motion Detection Stopped
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: A2
+
+Vehicle
+
+
+
+
+********************** LOG  END*************************
+
+
